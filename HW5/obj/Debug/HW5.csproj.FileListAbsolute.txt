@@ -1,0 +1,6 @@
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW5\HW5\bin\Debug\HW5.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW5\HW5\bin\Debug\HW5.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW5\HW5\bin\Debug\HW5.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW5\HW5\obj\Debug\HW5.csprojResolveAssemblyReference.cache
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW5\HW5\obj\Debug\HW5.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW5\HW5\obj\Debug\HW5.pdb
